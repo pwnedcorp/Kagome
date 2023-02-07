@@ -1,0 +1,13 @@
+{
+  "menu": {
+    "version": "1.0.0",
+    "maintanence_message": "In development.",
+    "message_of_the_day": "It's time for your daily portion of disgraceful skids!"
+  },
+  "languages": {
+    "en_GB": {
+      "name": "English (Normal people version)",
+      "path": "Translations/en_GB.json"
+    }
+  }
+}
